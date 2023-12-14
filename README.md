@@ -40,10 +40,10 @@ https://coloringme.net
 [<img src="https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg" style="border-radius: 13px; width: 180px; height: 60px;">](https://apps.apple.com/us/app/ai-coloring-page/id6473773843?itsct=apps_box_badge&itscg=30200)
 
 ## Windows
-Please see at release page
+Please see at release page or guide at https://coloringme.net/app
 
 ## Linux
-Please see at release page
+Please see at release page or guide at https://coloringme.net/app
 
 ## MacOS
-Please see at release page
+Please see at release page or guide at https://coloringme.net/app
